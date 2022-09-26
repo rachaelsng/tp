@@ -123,6 +123,9 @@ public class ParserUtil {
         return tagSet;
     }
 
+    /**
+     * Parses a {@code String remark} into a {@code Remark}.
+     */
     public static Remark parseRemark(String remark) {
         requireNonNull(remark);
         return new Remark(remark);
