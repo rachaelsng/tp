@@ -31,7 +31,7 @@ Given below are my contributions to the project.
   * Helped to test code to check for bugs.
 
 * **Enhancements to existing features**:
-  * Wrote additional tests for storage component to increase coverage by 8.76% [PR #170](https://github.com/AY2223S1-CS2103T-T11-3/tp/pull/170)
+  * Wrote additional tests for storage component, increasing coverage by 8.76% [PR #170](https://github.com/AY2223S1-CS2103T-T11-3/tp/pull/170)
 
 * **Documentation**:
   * User Guide:
